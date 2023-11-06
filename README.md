@@ -14,3 +14,5 @@ Vamos a contruir un Robot Trading en Python capaz de tomar decisiones de compra 
 Este es un proyecto básico pero ambicioso que requiere una cantidad importante de tiempo y esfuerzo, así como una comprensión básica de Python y lo más importante, mucha creatividad. Asegúrate de prestar bastante atención en las clases y de intentar resolverlo antes de pedir ayuda, si nada de esto funciona, recuerda que siempre puedes pedir ayuda en los canales del Bootcamp.
 
 ¡Que comiencen los juegos, y que la suerte esté siempre a tu favor!
+
+#aluraChallengeRobotTrading 
